@@ -6,5 +6,5 @@ Gem::Specification.new do |spec|
   spec.description = "See https://github.com/bukowskis/jcode"
   spec.authors     = %w{ bukowskis }
   spec.homepage    = 'https://github.com/bukowskis/jcode'
-  spec.files       = []
+  spec.files       = %w(lib/jcode.rb)
 end
